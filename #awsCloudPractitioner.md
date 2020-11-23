@@ -32,48 +32,48 @@ AWS is going to provide the following;
         - Examples are Email, Calendaring, Office Tools (O365)
     
     * On-Premises                    
-        Applications                                                
-        Data                                                                       
-        Runtime                                                             
-        Middleware                                                    
-        O/S                                                                         
-        Virtualization                                      
-        Servers                                                           
-        Storage                                                          
-        Networking                                                    
+          Applications                                                
+          Data                                                                       
+          Runtime                                                             
+          Middleware                                                    
+          O/S                                                                         
+          Virtualization                                      
+          Servers                                                           
+          Storage                                                          
+          Networking                                                    
 
      * Infrastructure as a Service
-        Applications
-        Data
-        Runtime
-        Middleware
-        O/S
-        📌Virtualization
-        📌Servers
-        📌Storage
-        📌Networking 
+          Applications
+          Data
+          Runtime
+          Middleware
+          O/S
+          Virtualization
+          Servers
+          Storage
+          Networking 
 
      * Platform as a Service
-        Applications
-        Data
-        📌Runtime
-        📌Middleware
-        📌O/S
-        📌Virtualization
-        📌Servers
-        📌Storage
-        📌Networking 
+          Applications
+          Data
+          Runtime
+          Middleware
+          O/S
+          Virtualization
+          Servers
+          Storage
+          Networking 
 
      * Software as a Service
-        📌Applications
-        📌Data
-        📌Runtime
-        📌Middleware
-        📌O/S
-        📌Virtualization
-        📌Servers
-        📌Storage
-        📌Networking
+          Applications
+          Data
+          Runtime
+          Middleware
+          O/S
+          Virtualization
+          Servers
+          Storage
+          Networking
 
    
 4. Types of Cloud Computing Deployments
