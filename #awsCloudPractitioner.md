@@ -31,7 +31,7 @@ AWS is going to provide the following;
         - Allows the client to connect to and use cloud-based apps over the internet
         - Examples are Email, Calendaring, Office Tools (O365)
     
-    * On-Premises                    
+     <b>On-Premises</b>                    
           Applications                                                
           Data                                                                       
           Runtime                                                             
@@ -42,7 +42,7 @@ AWS is going to provide the following;
           Storage                                                          
           Networking                                                    
 
-     * Infrastructure as a Service
+      <b>Infrastructure as a Service</b>
           Applications
           Data
           Runtime
@@ -53,7 +53,7 @@ AWS is going to provide the following;
           Storage
           Networking 
 
-     * Platform as a Service
+      <b>Platform as a Service</b>
           Applications
           Data
           Runtime
@@ -64,7 +64,7 @@ AWS is going to provide the following;
           Storage
           Networking 
 
-     * Software as a Service
+      <b>Software as a Service</b>
           Applications
           Data
           Runtime
